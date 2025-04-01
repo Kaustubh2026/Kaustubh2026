@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 ### I'm Kaustubh 🚀
-                                                                                                                          ### ☕ Love for Chai:
-                                                                                                          <p align="center">
-                                                                                                                 <img src="https://cdn.pixabay.com/animation/2024/09/09/14/14/14-14-48-336_512.gif" width="250"/>
-                                                                                                          </p>
+                                                                                                                
 **Machine Learning | Software Development | Competitive Programming**  
 Passionate about AI,Web Development, and solving real-world problems with code.
 
