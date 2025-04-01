@@ -10,7 +10,7 @@ Passionate about AI,Web Development, and solving real-world problems with code.
 ### 🔥 About Me:
 - 🚀 Building **AI & ML-powered applications**
 - 🏆 **Competitive Programmer** | Codeforces | Leetcode | CodeChef
-- 🎯 **Tech Enthusiast** | Love exploring **NLP, LLMs, Cloud, and DevOps**
+- 🎯 **Tech Enthusiast** | Love exploring **NLP, LLMs**
 - 🏏 **Cricket Lover** | Passionate about sports & strategy
 - 🎬 **Multimedia Enthusiast** | Former Secretary, College Multimedia Group
 
@@ -62,9 +62,9 @@ Passionate about AI,Web Development, and solving real-world problems with code.
 
 ### 🏆 Coding Profiles:
 
-- **Codeforces:** [kaustubhXYZ](https://codeforces.com/profile//Blackhork101)
-- **LeetCode:** [kaustubhXYZ](https://leetcode.com/Kaustubh_Muley/)
-- **CodeChef:** [kaustubhXYZ](https://www.codechef.com/users/nifty_tryst_51)
+- **Codeforces:** [kaustubh_muley](https://codeforces.com/profile//Blackhork101)
+- **LeetCode:** [kaustubh_muley](https://leetcode.com/Kaustubh_Muley/)
+- **CodeChef:** [kaustubh_muley](https://www.codechef.com/users/nifty_tryst_51)
 
 ---
 
