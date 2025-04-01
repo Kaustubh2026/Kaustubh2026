@@ -57,7 +57,7 @@ Passionate about AI,Web Development, and solving real-world problems with code.
 🔹 Helps students navigate safely with **marker expiry & push notifications**
 
 🔗 **Explore More:** [My GitHub Repositories](https://github.com/kaustubhXYZ)
-
+<p align="center"> <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="250"/> <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250"/> <img src="https://media.giphy.com/media/3o6ZsYm5WZwv8mvBFe/giphy.gif" width="250"/> </p>
 ---
 
 ### 🏆 Coding Profiles:
