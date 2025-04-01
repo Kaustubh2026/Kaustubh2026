@@ -8,7 +8,7 @@ Passionate about AI,Web Development, and solving real-world problems with code.
 ---
 ### ☕ Love for Chai:
 <p align="center">
-  <img src="[YOUR_UPLOADED_GIF_LINK](https://cdn.pixabay.com/animation/2024/09/09/14/14/14-14-48-336_512.gif)" width="250"/>
+  <img src="https://cdn.pixabay.com/animation/2024/09/09/14/14/14-14-48-336_512.gif" width="250"/>
 </p>
 
 ### 🔥 About Me:
