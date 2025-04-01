@@ -6,6 +6,10 @@
 Passionate about AI,Web Development, and solving real-world problems with code.
 
 ---
+### ☕ Love for Chai:
+<p align="center">
+  <img src="[YOUR_UPLOADED_GIF_LINK](https://cdn.pixabay.com/animation/2024/09/09/14/14/14-14-48-336_512.gif)" width="250"/>
+</p>
 
 ### 🔥 About Me:
 - 🚀 Building **AI & ML-powered applications**
@@ -57,7 +61,7 @@ Passionate about AI,Web Development, and solving real-world problems with code.
 🔹 Helps students navigate safely with **marker expiry & push notifications**
 
 🔗 **Explore More:** [My GitHub Repositories](https://github.com/kaustubhXYZ)
-<p align="center"> <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="250"/> <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250"/> <img src="https://media.giphy.com/media/3o6ZsYm5WZwv8mvBFe/giphy.gif" width="250"/> </p>
+
 ---
 
 ### 🏆 Coding Profiles:
