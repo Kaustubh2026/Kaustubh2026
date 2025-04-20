@@ -105,7 +105,7 @@ Passionate about AI, Web Development, and solving real-world problems with code.
 
 ### 🧩 GitHub Contributions Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kaustubh2026&theme=tokyonight&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kaustubh2026&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
