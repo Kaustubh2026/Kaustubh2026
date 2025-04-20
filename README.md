@@ -97,8 +97,8 @@ Passionate about AI, Web Development, and solving real-world problems with code.
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaustubhXYZ&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhXYZ&theme=tokyonight" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh2026&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh2026&theme=tokyonight" alt="GitHub Streak" width="49%"/>
 </p>
 
 ---
@@ -106,7 +106,7 @@ Passionate about AI, Web Development, and solving real-world problems with code.
 ### 🧩 GitHub Contributions Graph:
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kaustubhXYZ&theme=tokyonight&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Kaustubh2026&theme=tokyonight&area=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
