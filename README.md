@@ -1,14 +1,15 @@
 ## Hi there 👋
 
 ### I'm Kaustubh 🚀
-                                                                                                                
+
 **Machine Learning | Software Development | Competitive Programming**  
-Passionate about AI,Web Development, and solving real-world problems with code.
+Passionate about AI, Web Development, and solving real-world problems with code.
 
 ---
+
 ### 🔥 About Me:
 - 🚀 Building **AI & ML-powered applications**
-- 🏆 **Competitive Programmer** | Codeforces | Leetcode | CodeChef
+- 🏆 **Competitive Programmer** | Codeforces | LeetCode | CodeChef
 - 🎯 **Tech Enthusiast** | Love exploring **NLP, LLMs**
 - 🏏 **Cricket Lover** | Passionate about sports & strategy
 - 🎬 **Multimedia Enthusiast** | Former Secretary, College Multimedia Group
@@ -33,35 +34,35 @@ Passionate about AI,Web Development, and solving real-world problems with code.
 #### **Tools & Platforms:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 🚀 Notable Projects:
 
-#### **🔹 KrishiSanjivani** (SIH 2024 Finalist)
-🔹 ML-based price forecasting for farmers and merchants using **ARIMA & Random Forest**  
-🔹 Designed UI with **TailwindCSS & Material UI**, MySQL backend, increased transactions by **40%**
+#### 🔹 **KrishiSanjivani** (SIH 2024 Finalist)
+- ML-based price forecasting for farmers and merchants using **ARIMA & Random Forest**  
+- Designed UI with **TailwindCSS & Material UI**, MySQL backend, increased transactions by **40%**
 
-#### **🔹 Drug-Drug Interaction (DDI) Prediction**
-🔹 Healthcare-focused ML project with **Random Forest, XGBoost, Gradient Boosting**  
-🔹 Built for **Shraddha Hospital** to enhance patient safety & clinical decision-making
+#### 🔹 **Drug-Drug Interaction (DDI) Prediction**
+- Healthcare-focused ML project with **Random Forest, XGBoost, Gradient Boosting**  
+- Built for **Shraddha Hospital** to enhance patient safety & clinical decision-making
 
-#### **🔹 ART Finder (Automated Research & Trigger Finder)**
-🔹 Automating ad research with **GenAI, NLP, and AstraDB**  
-🔹 Extracts user pain points, competitor insights, and ad triggers for marketing teams
+#### 🔹 **ART Finder (Automated Research & Trigger Finder)**
+- Automating ad research with **GenAI, NLP, and AstraDB**  
+- Extracts user pain points, competitor insights, and ad triggers for marketing teams
 
-#### **🔹 Police Alert for College Commuters**
-🔹 Real-time **police tracking website** using **OpenStreetMap & Firebase**  
-🔹 Helps students navigate safely with **marker expiry & push notifications**
+#### 🔹 **Police Alert for College Commuters**
+- Real-time **police tracking website** using **OpenStreetMap & Firebase**  
+- Helps students navigate safely with **marker expiry & push notifications**
 
-🔗 **Explore More:** [My GitHub Repositories](https://github.com/kaustubhXYZ)
+🔗 **Explore More:** [My GitHub Repositories](https://github.com/Kaustubh2026)
 
 ---
 
 ### 🏆 Coding Profiles:
 
-- **Codeforces:** [kaustubh_muley](https://codeforces.com/profile//Blackhork101)
+- **Codeforces:** [kaustubh_muley](https://codeforces.com/profile/Blackhork101)
 - **LeetCode:** [kaustubh_muley](https://leetcode.com/Kaustubh_Muley/)
 - **CodeChef:** [kaustubh_muley](https://www.codechef.com/users/nifty_tryst_51)
 
@@ -78,20 +79,18 @@ Passionate about AI,Web Development, and solving real-world problems with code.
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaustubhXYZ&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhXYZ&theme=tokyonight" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh2026&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh2026&theme=tokyonight" alt="GitHub Streak" width="49%"/>
 </p>
 
 ---
 
 ### 🎮 Fun Fact:
-```
+
+```cpp
 while (true) {
     eat();
     code();
     sleep();
     repeat();
 }
-```
-
-Let's connect and build something awesome together! 🚀
