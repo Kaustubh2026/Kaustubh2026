@@ -60,16 +60,7 @@ Passionate about AI, Web Development, and solving real-world problems with code.
 🔸 Real-time **police tracking website** using **OpenStreetMap & Firebase**  
 🔸 Helps students navigate safely with **marker expiry & push notifications**
 
-🔗 **Explore More:** [My GitHub Repositories](https://github.com/kaustubhXYZ)
-
----
-
-### 🧠 Learning Goals (2025):
-- 🔍 Dive deeper into **NLP & LLMs**
-- ☁️ Master **Cloud & DevOps fundamentals**
-- 🤝 Start contributing to **open-source** projects
-- 🧠 Crack **FAANG-level DSA & System Design**
-
+🔗 **Explore More:** [My GitHub Repositories](https://github.com/kaustubhXYZ
 ---
 
 ### 🏆 Coding Profiles:
