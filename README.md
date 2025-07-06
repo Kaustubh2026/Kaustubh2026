@@ -60,7 +60,7 @@ Passionate about AI, Web Development, and solving real-world problems with code.
 🔸 Real-time **police tracking website** using **OpenStreetMap & Firebase**  
 🔸 Helps students navigate safely with **marker expiry & push notifications**
 
-🔗 **Explore More:** [My GitHub Repositories](https://github.com/kaustubhXYZ
+🔗 **Explore More:** [My GitHub Repositories](https://github.com/kaustubh2026
 ---
 
 ### 🏆 Coding Profiles:
